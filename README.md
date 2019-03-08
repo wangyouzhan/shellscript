@@ -12,4 +12,4 @@ for(int i = 0; i < 10; i++)
 }
 
 
-
+https://dev.to/rpalo/handling-arguments-in-bash-scripts-3o5://dev.to/rpalo/handling-arguments-in-bash-scripts-3o5m
